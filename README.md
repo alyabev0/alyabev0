@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">Frontend developer from Russia</h3>
 
 - 🔭 Now I am working on [Toxin project](https://github.com/alyabev0/Metalamp)
 
