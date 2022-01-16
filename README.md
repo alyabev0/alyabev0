@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about anything **followed with frontend**
+- 💬 Ask me about anything **followed with web development, philosophy or psychology (but web dev is prefered😁)**
 
 - 📫 How to reach me: **alyabev1998@gmail.com**
 
