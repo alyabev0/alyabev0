@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <h3 align="center">Frontend developer from Russia</h3>
 
-- 🔭 Now I am working on [React Todo App](https://github.com/alyabev0/React-Todo-App)
-
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about anything **followed with web development, philosophy or psychology (but web dev is prefered😁)**
