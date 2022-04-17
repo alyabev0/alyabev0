@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <h3 align="center">Frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about anything **followed with web development, philosophy or psychology (but web dev is prefered😁)**
-
-- 📫 How to reach me: **alyabev1998@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pavel-alyabev-28188a228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavel-alyabev-28188a228/" height="30" width="40" /></a>
