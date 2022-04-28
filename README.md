@@ -17,7 +17,6 @@
 - Always learning
 - Working on Full Stack app
 - Looking for opportunities
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyabev0&show_icons=true&locale=en&layout=compact" alt="alyabev0" /></p>
 
 ⭐️ From [alyabev0](https://github.com/alyabev0)
