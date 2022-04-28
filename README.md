@@ -10,13 +10,13 @@
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" width="350px" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" />
+<img align="right" alt="GIF" width="500px" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" />
 
 ### I am Pavel
 - Frontend Enthusiast
 - Always learning
 - Working on Full Stack app
 - Looking for opportunities
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyabev0&show_icons=true&locale=en&layout=compact" alt="alyabev0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyabev0&show_icons=true&locale=en&layout=compact" alt="alyabev0" /></p>
 
 ⭐️ From [alyabev0](https://github.com/alyabev0)
