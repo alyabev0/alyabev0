@@ -16,5 +16,4 @@
 - Frontend Enthusiast
 - Always learning
 - Working on Full Stack app
-- Looking for opportunities
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyabev0&show_icons=true&locale=en&layout=compact" alt="alyabev0" /></p>
