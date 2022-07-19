@@ -10,7 +10,7 @@
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 <br />
-<img align="right" src="https://github.com/alyabev0/alyabev0/blob/main/codingBatman.gif" width="50%"></img>
+<img align="right" src="https://github.com/alyabev0/alyabev0/blob/main/codingBatman.gif" width="60%"></img>
 
 ### I am Pavel
 - Frontend Enthusiast
